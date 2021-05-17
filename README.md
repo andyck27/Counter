@@ -1,2 +1,2 @@
 # Counter
-Simple Counter Program written in JS
+A simple counter program written in JS. 
